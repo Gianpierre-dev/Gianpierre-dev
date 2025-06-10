@@ -1,7 +1,7 @@
-<h1 align="center">Hola, soy Gianpierre Terrazas Tello👨‍💻</h1>
+<h1 align="center">Hola, soy Gianpierre Terrazas Tello 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=Desarrollador+Web+Full+Stack;Apasionado+por+el+frontend+y+backend;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=1000&lines=Desarrollador+Web+Full+Stack;Apasionado+por+el+frontend+y+backend;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40" alt="Express.js" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#"/>
@@ -45,27 +45,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" title="VSCode"/>
 </p>
 
 ---
 
-### 📌 Repositorios Destacados
+### 📈 Mis estadísticas
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| [Portafolio Web](https://github.com/tuusuario/portafolio) | Sitio personal para mostrar mis proyectos | React, Tailwind |
-| [API de Productos](https://github.com/tuusuario/api-productos) | Backend para tienda online | Node.js, Express, MongoDB |
-| [Blog PHP](https://github.com/tuusuario/blog-php) | Sistema de blog básico | PHP, MySQL |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GianpierreT&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianpierreT&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
 ### 📫 Contacto
 
-- 📧 Email: tuemail@ejemplo.com  
-- 🌐 Web: [www.tusitio.dev](https://www.tusitio.dev)  
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
+- 📧 Email: gianpierre.dev@ejemplo.com  
+- 🌐 Web: [www.gianpierret.dev](https://www.gianpierret.dev)  
+- 💼 [LinkedIn](https://linkedin.com/in/gianpierret)
 
 ---
 
