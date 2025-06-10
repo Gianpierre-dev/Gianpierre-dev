@@ -54,17 +54,22 @@
 ### 📈 Mis estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GianpierreT&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianpierreT&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gianpierre-dev&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianpierre-dev&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ### 📫 Contacto
 
-- 📧 Email: gianpierre.dev@ejemplo.com  
-- 🌐 Web: [www.gianpierret.dev](https://www.gianpierret.dev)  
-- 💼 [LinkedIn](https://linkedin.com/in/gianpierret)
+<p align="left">
+  <a href="https://www.linkedin.com/in/gianpierre-terrazas-tello-a792282a1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Gianpierre-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
