@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Gianpierre 👨‍💻</h1>
+<h1 align="center">Hola, soy Gianpierre Terrazas Tello👨‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&multiline=true&lines=Desarrollador+Web+Full+Stack;Apasionado+por+el+frontend+y+backend;Siempre+aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
@@ -8,10 +8,10 @@
 
 ### 🔥 Sobre mí
 
-- 💻 Enfocado en desarrollo web moderno
-- 🌐 Experiencia en proyectos full stack (frontend y backend)
-- 🎯 Apasionado por la eficiencia, el diseño limpio y la escalabilidad
-- 🧠 Siempre aprendiendo nuevas tecnologías
+- 💻 Enfocado en desarrollo web moderno  
+- 🌐 Experiencia en proyectos full stack  
+- 🎯 Apasionado por la eficiencia, el diseño limpio y la escalabilidad  
+- 🧠 Siempre aprendiendo nuevas tecnologías  
 
 ---
 
@@ -32,9 +32,11 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" title="Express.js"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40" alt="Express.js" title="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
 </p>
 
 #### 🗃️ Base de datos & Herramientas
@@ -43,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" title="VSCode"/>
 </p>
 
