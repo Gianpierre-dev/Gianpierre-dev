@@ -41,11 +41,24 @@
 
 ---
 
-### Estadísticas
+### Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gianpierre-dev&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianpierre-dev&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gianpierre-dev&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gianpierre-dev&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gianpierre-dev&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+### Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gianpierre-dev&theme=tokyonight&no-frame=true&column=4" />
 </p>
 
 ---
