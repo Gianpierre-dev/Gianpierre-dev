@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+TypeScript+%7C+Java+%7C+Python;NestJS+%7C+Spring+Boot+%7C+Astro+%7C+React;Sistemas+que+resuelven+problemas+reales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+TypeScript+%7C+Java+%7C+Python+%7C+Kotlin;Web+%7C+Mobile+%7C+Automatizaci%C3%B3n+%7C+APIs+REST;Sistemas+que+resuelven+problemas+reales" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,9 +13,10 @@
 ### Sobre mí
 
 - Full Stack Developer
-- Construyo sistemas web completos: backend, frontend y deploy
+- Construyo sistemas web y aplicaciones móviles
 - Stack principal: **TypeScript, NestJS, Prisma, Next.js, React, Astro**
 - Backend en Java con **Spring Boot, Hibernate** y almacenamiento en **Wasabi S3**
+- Apps móviles con **Kotlin** y **React Native (Expo)**
 - Automatizaciones con **Python, Playwright y SQLAlchemy**
 - Deploy con **Railway** y **Docker**
 
@@ -33,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate" title="Hibernate"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" title="Kotlin"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>
