@@ -12,10 +12,10 @@
 
 ### Sobre mí
 
-- Full Stack Developer en **Ingecem Perú**
+- Full Stack Developer
 - Construyo sistemas web completos: backend, frontend y deploy
 - Stack principal: **TypeScript, NestJS, Prisma, Next.js, React, Astro**
-- Backend en Java con **Spring Boot** y almacenamiento en **Wasabi S3**
+- Backend en Java con **Spring Boot, Hibernate** y almacenamiento en **Wasabi S3**
 - Automatizaciones con **Python, Playwright y SQLAlchemy**
 - Deploy con **Railway** y **Docker**
 
@@ -32,6 +32,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate" title="Hibernate"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>
@@ -45,7 +46,7 @@
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
 | [**Tonin-Web**](https://github.com/Gianpierre-dev/Tonin-Web) | Web app de frases motivacionales adaptadas a tu estado de ánimo con música ambiental y experiencia swipe | React, TypeScript, Tailwind, Zustand, Framer Motion |
-| [**Tonin-Api**](https://github.com/Gianpierre-dev/Tonin-Api) | API REST del backend de Tonin con auth JWT y almacenamiento en Wasabi S3 | Java 21, Spring Boot, PostgreSQL, Docker |
+| [**Tonin-Api**](https://github.com/Gianpierre-dev/Tonin-Api) | API REST del backend de Tonin con auth JWT y almacenamiento en Wasabi S3 | Java 21, Spring Boot, Hibernate, PostgreSQL, Docker |
 | [**TeachGenius Backend**](https://github.com/Gianpierre-dev/TeachGenius_Backend) | API para plataforma educativa gamificada con pupiletras interactivos | NestJS, Prisma, PostgreSQL, JWT |
 | [**TeachGenius Frontend**](https://github.com/Gianpierre-dev/TeachGenius_Frontend) | Interfaz web con juego de pupiletras en tiempo real | Astro, React, Tailwind, Zustand, Zod |
 | [**Sistema SUNAT**](https://github.com/Gianpierre-dev/Sistema-de-automatizaciones-Sunat-) | Automatización de consultas y descargas del portal SUNAT | Python, Playwright, SQLAlchemy, PySide6 |
